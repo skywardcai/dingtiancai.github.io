@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Dingtian Cai / "
+title                    : "Dingtian Cai "
 title_separator          : "-"
 name                     : &name "Dingtian Cai"
 description              : &description "personal description"
