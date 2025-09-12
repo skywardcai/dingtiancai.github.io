@@ -1,6 +1,6 @@
 ---
 title: "American Society of Human Genetics (ASHG)"
-excerpt: "Denver, CO, 2024 <br/><img src='/images/500x300.png'>"
+excerpt: "Denver, CO, 2024 <br/><img src='https://skywardcai.github.io/dingtiancai.github.io/images/500x300.png'>"
 collection: portfolio
 ---
 
