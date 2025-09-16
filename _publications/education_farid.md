@@ -2,7 +2,7 @@
 title: "The Role of Educational Attainment and APOE ε4 in Alzheimer Disease among Puerto Ricans: Disparity in Resilience"
 collection: publications
 category: conferences
-permalink: /publication/education_farid
+permalink: https://skywardcai.github.io/dingtiancai.github.io/publication/education_farid
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-02-17
 venue: 'GitHub Journal of Bugs'
