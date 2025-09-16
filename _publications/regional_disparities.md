@@ -4,11 +4,11 @@ title: "Regional Disparities in Educational Attainment and Its Impact on Cogniti
 
 collection: publications
 category: conferences
-permalink: /publication/regional_disparities
+permalink: https://skywardcai.github.io/dingtiancai.github.io/publication/regional_disparities
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
-paperurl: '/files/regional_disparities.pdf'
+paperurl: 'https://skywardcai.github.io/dingtiancai.github.io/files/regional_disparities.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
