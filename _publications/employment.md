@@ -2,11 +2,11 @@
 title: "Employment Status, Housing Stability, and Cognitive Health: Socioeconomic Determinants of Alzheimer’s Disease and Dementia in Western and Eastern Africa"
 collection: publications
 category: conferences
-permalink: /publication/employment
+permalink: https://skywardcai.github.io/dingtiancai.github.io/publication/employment
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
-paperurl: '/files/employment.pdf'
+paperurl: 'https://skywardcai.github.io/dingtiancai.github.io/files/employment.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
