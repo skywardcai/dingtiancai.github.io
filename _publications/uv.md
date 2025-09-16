@@ -2,11 +2,11 @@
 title: "Occupational ultraviolet light exposure among Florida Firefighters: Evidence from the Firefighter Cancer Initiative"
 collection: publications
 category: conferences
-permalink: /publication/uv
+permalink: https://skywardcai.github.io/dingtiancai.github.io/publication/uv
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2022-02-17
 venue: 'GitHub Journal of Bugs'
-paperurl: '/files/uv.pdf'
+paperurl: 'https://skywardcai.github.io/dingtiancai.github.io/files/uv.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
