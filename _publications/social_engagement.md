@@ -5,11 +5,11 @@ title: "Exploration of Social Engagement as a Risk Factor for Alzheimer’s Dise
 
 collection: publications
 category: conferences
-permalink: /publication/social_engagement
+permalink: https://skywardcai.github.io/dingtiancai.github.io/publication/social_engagement
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
-paperurl: '/files/social_engagement.pdf'
+paperurl: 'https://skywardcai.github.io/dingtiancai.github.io/files/social_engagement.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
