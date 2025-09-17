@@ -1,6 +1,6 @@
 ---
 title: "American Public Health Association (APHA)"
-excerpt: "Boston, MA, 2022 <br/><img src='/images/APHA_2022.jpg'>"
+excerpt: "Boston, MA, 2022 <br/><img src='https://skywardcai.github.io/dingtiancai.github.io/images/APHA_2022.jpg'>"
 collection: portfolio
 ---
 
