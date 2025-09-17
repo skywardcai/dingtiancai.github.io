@@ -1,6 +1,6 @@
 ---
 title: "Graduation"
-excerpt: "Miami, FL, 2022 <br/><img src='/images/graduation.jpg'>"
+excerpt: "Miami, FL, 2022 <br/><img src='https://skywardcai.github.io/dingtiancai.github.io/images/graduation.jpg'>"
 collection: portfolio
 ---
 
